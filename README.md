@@ -1,4 +1,4 @@
-<img src="https://play.google.com/store/apps/details?id=com.netatmo.netatmo&hl=nl&gl=US" width="10%">
+<img src="https://play-lh.googleusercontent.com/CHprxBaEquC1zZXijdkoEV0ywsYhNpTmeob_hGjoy69V7gS9r8R96i9822apg1BfQg=s360" width="10%">
 
 # Netatmo
 Code for collecting, analyzing and visualizing data from [Netatmo](https://www.netatmo.com) HomeCoach <br>
